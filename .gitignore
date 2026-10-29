@@ -1,0 +1,15 @@
+﻿.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.exe
+__pycache__/
+.venv/
+venv/
+node_modules/
+vendor/
+dist/
+.phpunit.result.cache
+.DS_Store
+
